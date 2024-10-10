@@ -1,0 +1,15 @@
+./init.exe init py
+
+./init.exe init js
+
+./init.exe init go
+
+
+
+
+
+./init.exe install py
+
+./init.exe install js
+
+./init.exe install go
